@@ -4,7 +4,7 @@
   "description": "Real time web chat",
   "private": true,
   "dependencies": {
-    "express": "~2.5.8",
+    "express": "3.x",
     "static-favicon": "~1.0.0",
     "morgan": "~1.0.0",
     "cookie-parser": "~1.0.1",
