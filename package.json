@@ -2,9 +2,8 @@
   "name": "chattertator",
   "version": "0.0.1",
   "description": "Real time web chat",
-  "private": true,
-  "scripts": {
-    // "start": "node ./bin/www"
+  "private": true
+
   },
   "dependencies": {
     "express": "latest",
